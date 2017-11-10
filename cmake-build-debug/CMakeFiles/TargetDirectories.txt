@@ -1,0 +1,3 @@
+/home/fabian/CLionProjects/rawtojpg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fabian/CLionProjects/rawtojpg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fabian/CLionProjects/rawtojpg/cmake-build-debug/CMakeFiles/rawtojpg.dir

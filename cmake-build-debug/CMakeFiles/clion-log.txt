@@ -1,0 +1,4 @@
+/home/fabian/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/fabian/CLionProjects/rawtojpg
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fabian/CLionProjects/rawtojpg/cmake-build-debug
